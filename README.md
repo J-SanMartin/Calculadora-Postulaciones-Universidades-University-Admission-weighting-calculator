@@ -11,3 +11,12 @@ El objetivo de este proyecto es consolidar la informacion de ponderaciones de la
 3. **Limpieza y ajuste de datos**: Una vez consolidada la informacion en un dataframe, se realizan ajustes en los nombres de columnas, universidades correspondientes, etc. En este paso se encontraron algunos detalles respecto a datos faltantes o problemas menores que son ajustados de manera posterior en excel
 4. **Exportacion de datos**: Toda la informacion obtenida y consolidada es extraida en formato .xlsx para revision de detalles menores y su uso en la calculadora
 5. **Calculadora**: Se utilizan los datos para construir una calculadora de postulaciones para los aplicantes de un colegio cientifico - humanista
+
+## Sobre la calculadora
+- Todas las celdas y hojas de documento excel se encuentran protegidas, por lo que los usuarios finales solo pueden ingresar datos en las cedas requeridas.
+- Calculadora: hoja que donde los usuarios (se espera estudiantes de educacion media) ingresan sus datos en los campos requeridos (destacados en color azul claro)
+- Universidades: Informacion extraida de cada carrera y universidad
+- COD_UNI: Lista de universidades con su codigo correspondiente
+- NEM: Tabla de conversion de notas puntaje NEM vigente para el año 2025 para un establecimiento de Grupo A: Educación Cientifico - Humanista
+- Ranking: Tabla de calculo de puntaje Ranking. Es importante destacar que los Promedios y maximos utilizados para cada año son simulados y deben ser ajustados para cada establecimiento educacional.
+- Carreras: hoja donde se realiza filtro de carreras disponibles en la universidad elegida por los usuarios
