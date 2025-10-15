@@ -1,6 +1,6 @@
 🌐 [Leer en Español](./README.md)
 
-# University weighted score calculator
+# University Application Calculator
 The main objective of this project is to consolidate the weighting of the PAES admission tests required by each university in Chile for their respective careers and build a calculator that delivers an approximate application score. it's important to note that the caculator was built for a type A School: scientific-humanistic, wich changes the conversion table used in NEM score
 
 ## Project Overview
