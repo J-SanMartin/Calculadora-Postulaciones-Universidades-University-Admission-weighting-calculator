@@ -1,3 +1,5 @@
+🌐 [Read in English](./README.ENG.md)
+
 # Calculadora Postulaciones Universidades
 El objetivo de este proyecto es consolidar la informacion de ponderaciones de las pruebas de admision PAES que requiere cada universidad en Chile para sus respectivas carreras y con esta construir una calculadora que pueda entregar una aproximacion del puntaje que esperan obtener los postulantes a estas carreras ademas de mostrarles como es el proceso de calculo. Es importante destacar que esta calculadora fue desarrollada para una escuela cientifico - humanista
 ## Sobre el proyecto
